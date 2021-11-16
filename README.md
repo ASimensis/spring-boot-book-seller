@@ -1,1 +1,1 @@
-# spring-boot-book-seller
+# spring-boot-book-seller-maven
